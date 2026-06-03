@@ -56,3 +56,5 @@ src/main/resources/firebase/serviceAccountKey.json
 uploads/
 **/uploads/
 The-Golden-Leaf-server/uploads/
+
+.env
